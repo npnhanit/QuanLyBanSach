@@ -1,0 +1,6 @@
+* Tai khoan root trong web:
+	Ten dang nhap: root
+	Mat khau: 123456789
+* Tai khoan khach hang:
+	Ten dang nhap: nhan123	
+	Mat khau: 123456
